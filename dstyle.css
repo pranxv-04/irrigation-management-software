@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body {
+    background-color: #008080 ;
+    background-size: cover;
+
+}
+.dashboard h1{
+    font-size: 40px;
+    text-align: center;
+    text-transform:uppercase;
+    margin: 40px 0;
+}
+.dashboard p{
+    font-size:20px;
+    text-align: center;
+    margin: 15px 100px;
+}
+.dashboard h3{
+    text-align: center;
+
+}
